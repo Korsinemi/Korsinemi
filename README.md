@@ -1,4 +1,11 @@
-### Hi there 👋
+### HOla a todos 👋
+
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=KitsuneCode&show_icons=1&count_private=1&include_all_commits=1&cache_seconds=1800&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff" alt="KitsuneCode's Language Usages">
+</p>
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KitsuneCode&hide=css,html&card_width=495&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="KitsuneCode's Language Usages">
+</p>
 
 <!--
 **KitsuneCode/KitsuneCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
