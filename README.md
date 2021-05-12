@@ -1,7 +1,5 @@
-### Hola a todos 👋
-
 <p align="center">
-    <img src="https://kitsunity.weebly.com/uploads/1/3/7/1/137171432/kitsunitybanneruwu_orig.png">
+    <img src="https://github.com/KitsuneCode/KitsuneCode/blob/main/KitsuneCode-LogoTrasnparent.png?raw=true">
 </p>
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=KitsuneCode&show_icons=1&count_private=1&include_all_commits=1&cache_seconds=1800&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff" alt="KitsuneCode's Language Usages">
