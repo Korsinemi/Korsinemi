@@ -8,7 +8,7 @@
        alt="KitsuneCode's Language Usages">
 </p>
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KitsuneCode&hide=css,html&card_width=495&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" 
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KitsuneCode&card_width=495&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" 
        alt="KitsuneCode's Language Usages">
 </p>
 
