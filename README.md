@@ -14,6 +14,19 @@ if (yo === 'feliz') {
   console.log('Aqui no se que escribir, disfruta mi perfil xD')
   };
 ```
+# Sobre mi
+- 🌱 Aprendiendo mas sobre programación
+- 📣 Mis proyectos: 
+   > [KitsuneCode] Ando trabajando en mi paquete UwU <!-- (https://www.npmjs.com/package/kitsunecode) --> <br />
+   > [Osakana](https://github.com/KitsuneCode/Osakana) <br />
+   > [Pagecord-Buttons.js](https://github.com/KitsuneCode/pagecord-buttons.js) <br />
+- 🦊 Me gustan los zorros
+- 🤖 Programadora de bots de Discord
+- ⚡ Dato extra: Creo bots por encargo para tu servidor y tambien configuro, contactame UwU
+    > Discord: KitsuneCode#5555 <br />
+    > Solo te pido que me dejes añadir mi bot, y es gratis jsjs
+
+
 # Estadisticas
 <p align="center">
     <a style="text-decoration: none;" href="https://kitsunecode.glitch.me">
@@ -26,6 +39,7 @@ if (yo === 'feliz') {
 
 # Herramientas
 <p align="center">
+    <img align="center" alt="GitHub" width="36px" src="https://image.flaticon.com/icons/png/512/25/25231.png" />
     <img align="center" alt="Visual Studio Code" width="36px" src="https://i.imgur.com/LwSdAlE.png" />
     <img align="center" alt="Discord.js" width="36px" src="https://i.imgur.com/SI1DZf3.png" />
     <img align="center" alt="JS" width="36px" src="https://i.imgur.com/3u1wzwE.png" />
@@ -35,29 +49,19 @@ if (yo === 'feliz') {
     <img align="center" alt="Firebase" width="36px" src="https://i.imgur.com/1RVXvxS.png" /> 
     <img align="center" alt="Photoshop" width="36px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/2101px-Adobe_Photoshop_CC_icon.svg.png" />
     <img align="center" alt="HTML5" width="36px" src="https://image.flaticon.com/icons/png/512/1216/1216733.png" />
-    <img align="center" alt="CSS3" width="36px" src="https://w7.pngwing.com/pngs/241/797/png-transparent-cascading-style-sheets-css3-javascript-logo-world-wide-web-blue-angle-text-thumbnail.png" />
+    <img align="center" alt="CSS3" width="36px" src="https://raw.githubusercontent.com/KitsuneCode/KitsuneCode/main/img/pngwing.com.png" />
     <img align="center" alt="NPM" width="36px" src="https://seekicon.com/free-icon-download/npm_5.svg" /> <br />
 </p>
 
-# Sobre mi
+# Mas cosas sobre mi
 Holis!!!, soy KitsuneCode desarrolladora y programadora de la comunidad, me facina el anime y los zorros, ademas, me facina mucho crear cosas nuevas.
-En mis ratos libres me dedico a crear diseños y a configurar servidores en Discord. Soy amable, gentil, sociable y cariñosa con todos, y espero ser reconocida como una programadora de bots famosa con mis proyectos:
-- La bot de Discord **[Kitsunity](https://github.com/KitsuneCode/Osakana)**
-- Mi API **[Animaction](https://github.com/KitsuneCode/animaction)**
-
-# Apoyo ⚙
-Aun no poseo formas de recibir donaciones, pero si gustas puedes apoyarme visitando estos lugares UwU
-- **[Sitio web](https://kitsunecode.glitch.me)**
-- **Discord:** KitsuneCode#5011
-- **[Twitter](https://twitter.com/KitsuneCode)**
-- **[Devian Art]()** - En mantenimiento
-- **[Reddit]()**
-- **[Facebook]()**
-- **[GitHub](https://github.com/KitsuneCode)**
-- **[Steam]()**
-- Y otras mas, buscame UwU
+En mis ratos libres me dedico a crear diseños y a configurar servidores en Discord. Soy amable, gentil, sociable y cariñosa con todos, y espero ser reconocida como una programadora de bots famosa algun dia xD
 
 **Con 🧡 por KitsuneCode**
+
+<p align='center'>
+  <img src="https://visitor-badge.glitch.me/badge?page_id=KitsuneCode" alt="visitor badge"/>
+</p>
 <!--
 **KitsuneCode/KitsuneCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
