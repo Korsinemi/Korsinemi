@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://github.com/KitsuneCode/KitsuneCode/blob/main/recursos/BannerUwU.gif?raw=true">
+    <img src="https://raw.githubusercontent.com/KitsuneCode/KitsuneCode/main/img/KitsuneCodeIcon.gif">
 </p>
 
 # Estadisticas
@@ -9,13 +9,13 @@
 </p>
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KitsuneCode&card_width=495&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" 
-       alt="KitsuneCode's Language Usages">
+       alt="Mis estadisticas">
 </p>
 
 # Sobre mi 🦊
 Holis!!!, soy KitsuneCode desarrolladora y programadora de la comunidad, me facina el anime y los zorros, ademas, me facina mucho crear cosas nuevas.
 En mis ratos libres me dedico a crear diseños y a configurar servidores en Discord. Soy amable, gentil, sociable y cariñosa con todos, y espero ser reconocida como una programadora de bots famosa con mis proyectos:
-- La bot de Discord **[Kitsunity](https://github.com/KitsuneCode/Kitsunity)**
+- La bot de Discord **[Kitsunity](https://github.com/KitsuneCode/Osakana)**
 - Mi API **[Animaction](https://github.com/KitsuneCode/animaction)**
 
 # Apoyo ⚙
