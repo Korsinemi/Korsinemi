@@ -30,10 +30,10 @@ if (yo === 'feliz') {
 # Estadisticas
 <p align="center">
     <a style="text-decoration: none;" href="https://kitsunecode.glitch.me">
-        <img width=470 height=190 align="center" src="https://github-readme-stats.vercel.app/api?username=KitsuneCode&theme=maroongold&show_icons=true&bg_color=0D1117&hide_border=true&locale=es&custom_title=Mis%20estadisticas%20UwU" />
+        <img width=370 height=190 align="center" src="https://github-readme-stats.vercel.app/api?username=KitsuneCode&theme=maroongold&show_icons=true&bg_color=0D1117&hide_border=true&locale=es&custom_title=Mis%20estadisticas%20UwU" />
     </a>
     <a href="https://kitsunecode.glitch.me">
-        <img width=470 height=185 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KitsuneCode&theme=maroongold&layout=compact&bg_color=0D1117&hide_border=true&custom_title=Mis%20lenguajes%20UwU" />
+        <img width=370 height=185 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KitsuneCode&theme=maroongold&layout=compact&bg_color=0D1117&hide_border=true&custom_title=Mis%20lenguajes%20UwU" />
     </a>
 </p>
 
