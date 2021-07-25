@@ -57,6 +57,10 @@ if (yo === 'feliz') {
 Holis!!!, soy KitsuneCode desarrolladora y programadora de la comunidad, me facina el anime y los zorros, ademas, me facina mucho crear cosas nuevas.
 En mis ratos libres me dedico a crear diseños y a configurar servidores en Discord. Soy amable, gentil, sociable y cariñosa con todos, y espero ser reconocida como una programadora de bots famosa algun dia xD
 
+<p align='center'>
+  <img src="https://emoji.gg/assets/emoji/6375_dancing_neko.gif" alt="UwU"/>
+</p>
+
 **Con 🧡 por KitsuneCode**
 
 <p align='center'>
