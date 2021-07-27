@@ -18,8 +18,12 @@ if (yo === 'feliz') {
 - 🌱 Aprendiendo mas sobre programación
 - 📣 Mis proyectos: 
    > [KitsuneCode] Ando trabajando en mi paquete UwU <!-- (https://www.npmjs.com/package/kitsunecode) --> <br />
-   > [Osakana](https://github.com/KitsuneCode/Osakana) <br />
-   > [Pagecord-Buttons.js](https://github.com/KitsuneCode/pagecord-buttons.js) <br />
+   > [Osakana](https://github.com/KitsuneCode/Osakana) - **Mi bot de Discord** <br />
+   > [Pagecord-Buttons.js](https://github.com/KitsuneCode/pagecord-buttons.js) - **Disponible cuando salga Discord.js v13!!** <br />
+   > [Wikicord] - **Un paquete de busqueda en Wikipedia** # En desarrollo
+   > [Hispanime] - **Obten anime 100% en Español** # En desarrollo
+   > [Histoday] - **Obten eventos de la historia que ocurrieron hoy u otro dia** # En desarrollo
+   > [keepAlive] - **Manten a tu bot activo 24/7** # En desarrollo
 - 🦊 Me gustan los zorros
 - 🤖 Programadora de bots de Discord
 - ⚡ Dato extra: Creo bots por encargo para tu servidor y tambien configuro, contactame UwU
@@ -39,14 +43,30 @@ if (yo === 'feliz') {
 
 # Herramientas
 <p align="center">
+    <a href="https://github.com">
     <img align="center" alt="GitHub" width="36px" src="https://image.flaticon.com/icons/png/512/25/25231.png" />
+        <a/>
+    <a href="https://code.visualstudio.com">
     <img align="center" alt="Visual Studio Code" width="36px" src="https://i.imgur.com/LwSdAlE.png" />
+        <a/>
+    <a href="https://discord.js.org">
     <img align="center" alt="Discord.js" width="36px" src="https://i.imgur.com/SI1DZf3.png" />
+        <a/>
+    <a href="https://www.javascript.com">    
     <img align="center" alt="JS" width="36px" src="https://i.imgur.com/3u1wzwE.png" />
+        <a/>
+    <a href="https://www.typescriptlang.org">
     <img align="center" alt="TS" width="36px" src="https://i.imgur.com/vSgFULR.png" />
+        <a/>
+    <a href="https://nodejs.org">    
     <img align="center" alt="Node.js" width="36px" src="https://cdn.iconscout.com/icon/free/png-512/node-js-1-1174935.png" /> 
+        <a/>
+    <a href="https://www.mongodb.com">    
     <img align="center" alt="MongoDB" width="36px" src="https://lesliezarate.github.io/Portafolio/static/iconos/mongo.png" />
+        <a/>
+    <a href="https://firebase.google.com">    
     <img align="center" alt="Firebase" width="36px" src="https://i.imgur.com/1RVXvxS.png" /> 
+        <a/>
     <img align="center" alt="Photoshop" width="36px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/2101px-Adobe_Photoshop_CC_icon.svg.png" />
     <img align="center" alt="HTML5" width="36px" src="https://image.flaticon.com/icons/png/512/1216/1216733.png" />
     <img align="center" alt="CSS3" width="36px" src="https://raw.githubusercontent.com/KitsuneCode/KitsuneCode/main/img/pngwing.com.png" />
@@ -64,7 +84,7 @@ En mis ratos libres me dedico a crear diseños y a configurar servidores en Disc
 **Con 🧡 por KitsuneCode**
 
 <p align='center'>
-  <img src="https://visitor-badge.glitch.me/badge?page_id=KitsuneCode" alt="visitor badge"/>
+  <img src="https://visitor-badge.glitch.me/badge?page_id=KitsuneCode" alt="Visitas"/>
 </p>
 <!--
 **KitsuneCode/KitsuneCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
