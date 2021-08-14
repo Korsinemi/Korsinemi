@@ -1,18 +1,10 @@
 <p align="center">
-    <img src="https://raw.githubusercontent.com/KitsuneCode/KitsuneCode/main/img/KitsuneCodeIcon.gif">
+    <img src="https://github.com/KitsuneCode/KitsuneCode/blob/main/img/Facebook%20(1).png?raw=true">
 </p>
 
 ```js
 // Aqui es donde todo comienza nwn
-const yo = require('kitsunecode');
-
-if (yo === 'feliz') {
-  console.log('Programadora y cosplayer facinada por los nekos UwU')
-  } else if (yo === 'emocionada') {
-  console.log('Bienvenidos a todos nwn')
-  } else {
-  console.log('Aqui no se que escribir, disfruta mi perfil xD')
-  };
+const miVida = require('kitsunecode')
 ```
 # Sobre mi
 - 🌱 Aprendiendo mas sobre programación
@@ -20,9 +12,9 @@ if (yo === 'feliz') {
    > [KitsuneCode] Ando trabajando en mi paquete UwU <!-- (https://www.npmjs.com/package/kitsunecode) --> <br />
    > [Osakana](https://github.com/KitsuneCode/Osakana) - **Mi bot de Discord** <br />
    > [Pagecord-Buttons.js](https://github.com/KitsuneCode/pagecord-buttons.js) - **Disponible cuando salga Discord.js v13!!** <br />
-   > [Wikicord] - **Un paquete de busqueda en Wikipedia** # En desarrollo
-   > [Hispanime] - **Obten anime 100% en Español** # En desarrollo
-   > [Histoday] - **Obten eventos de la historia que ocurrieron hoy u otro dia** # En desarrollo
+   > [Wikicord] - **Un paquete de busqueda en Wikipedia** # En desarrollo <br />
+   > [Hispanime] - **Obten anime 100% en Español** # En desarrollo <br />
+   > [Histoday] - **Obten eventos de la historia que ocurrieron hoy u otro dia** # En desarrollo <br />
    > [keepAlive] - **Manten a tu bot activo 24/7** # En desarrollo
 - 🦊 Me gustan los zorros
 - 🤖 Programadora de bots de Discord
@@ -34,10 +26,10 @@ if (yo === 'feliz') {
 # Estadisticas
 <p align="center">
     <a style="text-decoration: none;" href="https://kitsunecode.glitch.me">
-        <img width=370 height=190 align="center" src="https://github-readme-stats.vercel.app/api?username=KitsuneCode&theme=maroongold&show_icons=true&bg_color=0D1117&hide_border=true&locale=es&custom_title=Mis%20estadisticas%20UwU" />
+        <img width=430 height=195 align="center" src="https://github-readme-stats.vercel.app/api?username=KitsuneCode&theme=kacho_ga&show_icons=true&bg_color=0D1117&hide_border=true&locale=es&custom_title=Mis%20estadisticas%20UwU" />
     </a>
     <a href="https://kitsunecode.glitch.me">
-        <img width=370 height=185 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KitsuneCode&theme=maroongold&layout=compact&bg_color=0D1117&hide_border=true&custom_title=Mis%20lenguajes%20UwU" />
+        <img width=370 height=185 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KitsuneCode&theme=kacho_ga&layout=compact&bg_color=0D1117&hide_border=true&custom_title=Mis%20lenguajes%20UwU" />
     </a>
 </p>
 
@@ -86,6 +78,7 @@ En mis ratos libres me dedico a crear diseños y a configurar servidores en Disc
 <p align='center'>
   <img src="https://visitor-badge.glitch.me/badge?page_id=KitsuneCode" alt="Visitas"/>
 </p>
+        
 <!--
 **KitsuneCode/KitsuneCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
