@@ -1,12 +1,14 @@
 <p align="center">
-    <img src="https://github.com/KitsuneCode/KitsuneCode/blob/main/img/Facebook%20(1).png?raw=true">
+    <img src="https://github.com/KitsuneCode/KitsuneCode/blob/main/img/FurrycalityBanner.png?raw=true">
 </p>
 
 ```js
-// Aqui es donde todo comienza nwn
-const miVida = require('kitsunecode')
+// This is where begins
+const myLife = require('purrfection')
 ```
-# Sobre mi
+# Sobre mi - About me
+- **EN** > Hi, My name is Furrycality
+- 
 - 🌱 Aprendiendo mas sobre programación
 - 📣 Mis proyectos: 
    > [KitsuneCode] Ando trabajando en mi paquete UwU <!-- (https://www.npmjs.com/package/kitsunecode) --> <br />
