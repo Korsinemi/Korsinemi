@@ -1,5 +1,6 @@
 <p align="center">
     <img src="https://github.com/KitsuneCode/KitsuneCode/blob/main/img/FurrycalityBanner.png?raw=true">
+    
 </p>
 
 # Sobre mi - About me 🦊
