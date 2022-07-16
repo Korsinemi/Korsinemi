@@ -1,6 +1,7 @@
 <p align="center">
-    <img src="https://github.com/KitsuneCode/KitsuneCode/blob/main/img/FurrycalityBanner.png?raw=true">
-    
+<a href="https://furrycality.pw" title="My fluff web (Spanish)">
+    <img src="https://raw.githubusercontent.com/Furrycality/Furrycality/main/img/FurrycalityFacebookBanner%20(1).png?raw=true">
+    </a>
 </p>
 
 # Sobre mi - About me 🦊
