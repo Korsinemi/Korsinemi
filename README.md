@@ -10,27 +10,26 @@ En mis ratos libres me dedico a crear diseños y a configurar servidores en Disc
 
 - **EN** > Awo, I am Furrycality, although my name is Kira, I am 16 years old and I am prodigious, by day and by night I am a loyal and loving furry, I am passionate about drawing and programming and in the future (not so distant) I will also dedicate myself to music, I am calm and I am always happy (I always wag my tail jsjs) I have several projects among which I highlight my two Discord bots, Osakana and FurRetro UwU. I am also a fan of anime and foxes, I am also very fascinated by creating new things.
 In my spare time I dedicate myself to creating designs and configuring Discord servers and also seeing what new drawings to make. I am kind, gentle, sociable and affectionate with everyone.
-<!--
+
 - 📣 Mis proyectos: 
-   > [KitsuneCode] Ando trabajando en mi paquete UwU <!-- (https://www.npmjs.com/package/kitsunecode) <br />
-   > [Osakana](https://github.com/KitsuneCode/Osakana) - **Mi bot de Discord** <br />
-   > [Pagecord-Buttons.js](https://github.com/KitsuneCode/pagecord-buttons.js) - **Disponible cuando salga Discord.js v13!!** <br />
+   > [node-furapi] Obten furros facilmente usando NodeJS <!-- (https://www.npmjs.com/package/node-furapi) <br />
+   > [node-kawapi] Obten anime facilmente usando NodeJS <!-- (https://www.npmjs.com/package/node-kawapi) <br />
+   > [Zabami](https://github.com/KitsuneCode/Osakana) - **Mi bot de discord furry basado en mi fursona** <br />
    > [Wikicord] - **Un paquete de busqueda en Wikipedia** # En desarrollo <br />
-   > [Hispanime] - **Obten anime 100% en Español** # En desarrollo <br />
    > [Histoday] - **Obten eventos de la historia que ocurrieron hoy u otro dia** # En desarrollo <br />
    > [keepAlive] - **Manten a tu bot activo 24/7** # En desarrollo
 
 - ⚡ Dato extra: Creo bots por encargo para tu servidor y tambien configuro, contactame UwU
-    > Discord: KitsuneCode#5555 <br />
+    > Discord: Furrycality#1010 <br />
     > Solo te pido que me dejes añadir mi bot, y es gratis jsjs
--->
+
 
 # Estadistics - Estadisticas 📊
 <p align="center">
-    <a style="text-decoration: none;" href="https://furrycaliity.glitch.me">
+    <a style="text-decoration: none;" href="https://furrycaliity.pw">
         <img width=430 height=195 align="center" src="https://github-readme-stats.vercel.app/api?username=Furrycality&theme=kacho_ga&show_icons=true&bg_color=0D1117&hide_border=true&locale=es&custom_title=Mis%20estadisticas%20UwU" />
     </a>
-    <a href="https://furycaliity.glitch.me">
+    <a href="https://furycaliity.pw">
         <img width=370 height=185 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Furrycality&theme=kacho_ga&layout=compact&bg_color=0D1117&hide_border=true&custom_title=Mis%20lenguajes%20UwU" />
     </a>
 </p>
