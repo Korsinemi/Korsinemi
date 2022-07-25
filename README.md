@@ -37,7 +37,7 @@ In my spare time I dedicate myself to creating designs and configuring Discord s
 # Herramientas - Tools ⚙
 <p align="center">
     <a href="https://github.com">
-    <img align="center" alt="GitHub" width="36px" src="https://image.flaticon.com/icons/png/512/25/25231.png" />
+    <img align="center" alt="GitHub" width="36px" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" />
         <a/>
     <a href="https://code.visualstudio.com">
     <img align="center" alt="Visual Studio Code" width="36px" src="https://i.imgur.com/LwSdAlE.png" />
@@ -61,7 +61,7 @@ In my spare time I dedicate myself to creating designs and configuring Discord s
     <img align="center" alt="Firebase" width="36px" src="https://i.imgur.com/1RVXvxS.png" /> 
         <a/>
     <img align="center" alt="Photoshop" width="36px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/2101px-Adobe_Photoshop_CC_icon.svg.png" />
-    <img align="center" alt="HTML5" width="36px" src="https://image.flaticon.com/icons/png/512/1216/1216733.png" />
+    <img align="center" alt="HTML5" width="36px" src="https://cdn-icons-png.flaticon.com/512/226/226269.png" />
     <img align="center" alt="CSS3" width="36px" src="https://raw.githubusercontent.com/KitsuneCode/KitsuneCode/main/img/pngwing.com.png" />
           <a href="https://www.npmjs.com">    
     <img align="center" alt="NPM" width="36px" src="https://seekicon.com/free-icon-download/npm_5.svg" /> <br />
