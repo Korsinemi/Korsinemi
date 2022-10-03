@@ -2,9 +2,9 @@
 <a href="https://furrycality.pw" title="My fluff web (Spanish)">
     <img src="https://raw.githubusercontent.com/Furrycality/Furrycality/main/img/FurrycalityFacebookBanner%20(1).png?raw=true">
     </a>
+<a href="https://furrycality.pw"><img src="https://readme-typing-svg.herokuapp.com?font=Sticky&pause=1000&color=094BC0&width=435&lines=Hewo%2C+It's+Furrycality%2C+a+purrfect+coder" alt="UwU" /></a>
 </p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Sticky&pause=1000&color=001A9F&width=435&lines=Hewo%2C+It's+Furrycality%2C+a+purrfect+coder)](https://furrycality.pw)
 
 # Sobre mi - About me 🦊
 - **ES** > Awo, Soy Furrycality, aunque me llamo Kira, tengo 16 años y soy prodigiosa, de dia y de noche soy una furra leal y amorosa, me apasiona el dibujo y la programacion y en un futuro (no tal lejano) me dedicare tambien a la musica, soy tranquila y siempre ando feliz (bato la cola siempre jsjs) tengo varios proyectos entre los que destaco a mis dos bots de Discord, a Osakana y a FurRetro UwU. Ademas soy una  fanatica del  anime y los zorros, tambien me facina mucho crear cosas nuevas.
