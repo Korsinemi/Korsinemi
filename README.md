@@ -16,13 +16,14 @@ In my spare time I dedicate myself to creating designs and configuring Discord s
 - 📣 Mis proyectos: 
    > [node-furapi] Obten furros facilmente usando NodeJS <!-- (https://www.npmjs.com/package/node-furapi) <br />
    > [node-kawapi] Obten anime facilmente usando NodeJS <!-- (https://www.npmjs.com/package/node-kawapi) <br />
-   > [Zabami](https://github.com/KitsuneCode/Osakana) - **Mi bot de discord furry basado en mi fursona** <br />
+   > [Zabami](https://github.com/KitsuneCode/ZabamiBot) - **Mi bot de discord furry basado en mi fursona** <br />
+   > [Osakana](https://github.com/KitsuneCode/Osakana) - **Mi bot de discord furry basado en mi fursona** <br />
    > [Wikicord] - **Un paquete de busqueda en Wikipedia** # En desarrollo <br />
    > [Histoday] - **Obten eventos de la historia que ocurrieron hoy u otro dia** # En desarrollo <br />
    > [keepAlive] - **Manten a tu bot activo 24/7** # En desarrollo
 
 - ⚡ Dato extra: Creo bots por encargo para tu servidor y tambien configuro, contactame UwU
-    > Discord: Furrycality#1010 <br />
+    > Discord: Furrycality#1234 <br />
     > Solo te pido que me dejes añadir mi bot, y es gratis jsjs
 
 
