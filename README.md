@@ -7,20 +7,23 @@
 
 
 # Sobre mi - About me 🦊
-- **ES** > Awo, Soy Furrycality, aunque me llamo Kira, tengo 16 años y soy prodigiosa, de dia y de noche soy una furra leal y amorosa, me apasiona el dibujo y la programacion y en un futuro (no tal lejano) me dedicare tambien a la musica, soy tranquila y siempre ando feliz (bato la cola siempre jsjs) tengo varios proyectos entre los que destaco a mis dos bots de Discord, a Osakana y a FurRetro UwU. Ademas soy una  fanatica del  anime y los zorros, tambien me facina mucho crear cosas nuevas.
+- **ES** > Awo, Soy Furrycality (Mejor llamada Cality), tengo 16 años y soy prodigiosa, de dia y de noche soy una furra leal y amorosa, me apasiona el dibujo y la programacion y en un futuro (no tal lejano) me dedicare tambien a la musica, soy tranquila y siempre ando feliz (bato la cola siempre jsjs) tengo varios proyectos entre los que destaco a mis dos bots de Discord, a Osakana y a FurRetro UwU. Ademas soy una  fanatica del  anime y los zorros, tambien me facina mucho crear cosas nuevas.
 En mis ratos libres me dedico a crear diseños y a configurar servidores en Discord y tambien a ver que nuevos dibujos hacer. Soy amable, gentil, sociable y cariñosa con todos.
 
-- **EN** > Awo, I am Furrycality, although my name is Kira, I am 16 years old and I am prodigious, by day and by night I am a loyal and loving furry, I am passionate about drawing and programming and in the future (not so distant) I will also dedicate myself to music, I am calm and I am always happy (I always wag my tail jsjs) I have several projects among which I highlight my two Discord bots, Osakana and FurRetro UwU. I am also a fan of anime and foxes, I am also very fascinated by creating new things.
+- **EN** > Awo, I am Furrycality (Better called Cality), I am 16 years old and I am prodigious, by day and by night I am a loyal and loving furry, I am passionate about drawing and programming and in the future (not so distant) I will also dedicate myself to music, I am calm and I am always happy (I always wag my tail jsjs) I have several projects among which I highlight my two Discord bots, Osakana and FurRetro UwU. I am also a fan of anime and foxes, I am also very fascinated by creating new things.
 In my spare time I dedicate myself to creating designs and configuring Discord servers and also seeing what new drawings to make. I am kind, gentle, sociable and affectionate with everyone.
 
 - 📣 Mis proyectos: 
-   > [node-furapi] Obten furros facilmente usando NodeJS <!-- (https://www.npmjs.com/package/node-furapi) <br />
-   > [node-kawapi] Obten anime facilmente usando NodeJS <!-- (https://www.npmjs.com/package/node-kawapi) <br />
+   > [UGCatcher](https://github.com/Furrycality/UGCatcher) - Obten UGCs gratis facilmente (English/Spanish)
+<!--
+   > [node-furapi] Obten furros facilmente usando NodeJS  (https://www.npmjs.com/package/node-furapi) <br />
+   > [node-kawapi] Obten anime facilmente usando NodeJS  (https://www.npmjs.com/package/node-kawapi) <br />
    > [Zabami](https://github.com/KitsuneCode/ZabamiBot) - **Mi bot de discord furry basado en mi fursona** <br />
    > [Osakana](https://github.com/KitsuneCode/Osakana) - **Mi bot de discord furry basado en mi fursona** <br />
    > [Wikicord] - **Un paquete de busqueda en Wikipedia** # En desarrollo <br />
    > [Histoday] - **Obten eventos de la historia que ocurrieron hoy u otro dia** # En desarrollo <br />
    > [keepAlive] - **Manten a tu bot activo 24/7** # En desarrollo
+-->
 
 - ⚡ Dato extra: Creo bots por encargo para tu servidor y tambien configuro, contactame UwU
     > Discord: Furrycality#1234 <br />
