@@ -41,38 +41,20 @@ Hello there! I'm Furrycality, or you can just call me Cality. At 17, I'm a fur p
 
 # Herramientas - Tools ⚙
 <p align="center">
-    <a href="https://github.com">
-    <img align="center" alt="GitHub" width="36px" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" />
-        <a/>
-    <a href="https://code.visualstudio.com">
-    <img align="center" alt="Visual Studio Code" width="36px" src="https://i.imgur.com/LwSdAlE.png" />
-        <a/>
-    <a href="https://discord.js.org">
-    <img align="center" alt="Discord.js" width="36px" src="https://i.imgur.com/SI1DZf3.png" />
-        <a/>
-    <a href="https://www.javascript.com">    
-    <img align="center" alt="JS" width="36px" src="https://i.imgur.com/3u1wzwE.png" />
-        <a/>
-    <a href="https://www.typescriptlang.org">
-    <img align="center" alt="TS" width="36px" src="https://i.imgur.com/vSgFULR.png" />
-        <a/>
-    <a href="https://nodejs.org">    
-    <img align="center" alt="Node.js" width="36px" src="https://cdn.iconscout.com/icon/free/png-512/node-js-1-1174935.png" /> 
-        <a/>
-    <a href="https://www.mongodb.com">    
-    <img align="center" alt="MongoDB" width="36px" src="https://lesliezarate.github.io/Portafolio/static/iconos/mongo.png" />
-        <a/>
-    <a href="https://firebase.google.com">    
-    <img align="center" alt="Firebase" width="36px" src="https://i.imgur.com/1RVXvxS.png" /> 
-        <a/>
+    <a href="https://github.com"><img align="center" alt="GitHub" width="36px" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" /></a>
+    <a href="https://code.visualstudio.com"><img align="center" alt="Visual Studio Code" width="36px" src="https://i.imgur.com/LwSdAlE.png" /></a>
+    <a href="https://discord.js.org"><img align="center" alt="Discord.js" width="36px" src="https://i.imgur.com/SI1DZf3.png" /></a>
+    <a href="https://www.javascript.com"><img align="center" alt="JS" width="36px" src="https://i.imgur.com/3u1wzwE.png" /></a>
+    <a href="https://www.typescriptlang.org"><img align="center" alt="TS" width="36px" src="https://i.imgur.com/vSgFULR.png" /></a>
+    <a href="https://nodejs.org"><img align="center" alt="Node.js" width="36px" src="https://cdn.iconscout.com/icon/free/png-512/node-js-1-1174935.png" /></a>
+    <a href="https://www.mongodb.com"><img align="center" alt="MongoDB" width="36px" src="https://lesliezarate.github.io/Portafolio/static/iconos/mongo.png" /></a>
+    <a href="https://firebase.google.com"><img align="center" alt="Firebase" width="36px" src="https://i.imgur.com/1RVXvxS.png" /></a>
     <img align="center" alt="Photoshop" width="36px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/2101px-Adobe_Photoshop_CC_icon.svg.png" />
     <img align="center" alt="HTML5" width="36px" src="https://cdn-icons-png.flaticon.com/512/226/226269.png" />
     <img align="center" alt="CSS3" width="36px" src="https://raw.githubusercontent.com/KitsuneCode/KitsuneCode/main/img/pngwing.com.png" />
-          <a href="https://www.npmjs.com">    
-    <img align="center" alt="NPM" width="36px" src="https://seekicon.com/free-icon-download/npm_5.svg" /> <br />
-        <a/>
+    <a href="https://www.npmjs.com"><img align="center" alt="NPM" width="36px" src="https://seekicon.com/free-icon-download/npm_5.svg" /></a>
 </p>
-        
+
 ```js
 // This is where begins
 const myLife = require('purrfection')
