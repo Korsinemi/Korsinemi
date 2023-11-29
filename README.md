@@ -85,7 +85,7 @@ const myLife = require('purrfection')
 **With 🧡 by Furrycality - The furries are the best owo | 2016 - 2023 All rights reserved**
 
 <p align='center'>
-  <img src="https://visitor-badge.glitch.me/badge?page_id=furrycality" alt="Visitas"/>
+  <img src="https://hits.dwyl.com/furrycality/furrycality.svg?style=flat-square" alt="Visitas"/>
 </p>
         
 <!--
