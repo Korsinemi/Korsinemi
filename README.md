@@ -1,6 +1,6 @@
 <p align="center">
 <a href="https://furrycality.pw" title="My fluff web (Spanish)">
-    <img src="https://raw.githubusercontent.com/Furrycality/Furrycality/main/img/FurrycalityFacebookBanner%20(1).png?raw=true">
+    <img src="https://raw.githubusercontent.com/Furrycality/Furrycality/main/img/FC_Banner_Type2.png">
     </a>
 <a href="https://furrycality.pw"><img src="https://readme-typing-svg.herokuapp.com?font=Nova+Square&size=40&duration=6000&pause=9000&color=9F04F7&center=true&vCenter=true&random=true&width=700&height=60&lines=Furrycality%2C+the+next+generation+furry" alt="UwU" /></a>
 </p>
