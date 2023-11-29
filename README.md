@@ -2,7 +2,7 @@
 <a href="https://furrycality.pw" title="My fluff web (Spanish)">
     <img src="https://raw.githubusercontent.com/Furrycality/Furrycality/main/img/FurrycalityFacebookBanner%20(1).png?raw=true">
     </a>
-<a href="https://furrycality.pw"><img src="https://readme-typing-svg.herokuapp.com?font=Sticky&pause=1000&color=094BC0&width=435&lines=Hewo%2C+It's+Furrycality%2C+a+purrfect+coder" alt="UwU" /></a>
+<a href="https://furrycality.pw"><img src="https://readme-typing-svg.herokuapp.com?font=Nova+Square&size=40&duration=6000&pause=9000&color=9F04F7&center=true&vCenter=true&random=true&width=700&height=60&lines=Furrycality%2C+the+next+generation+furry" alt="UwU" /></a>
 </p>
 
 
@@ -79,10 +79,16 @@ const myLife = require('purrfection')
 ```
         
 <p align='center'>
-  <img src="https://emoji.gg/assets/emoji/6375_dancing_neko.gif" alt="UwU"/>
+  <img src="https://c.tenor.com/eM2nWbeTcrgAAAAj/furry-dance.gif" alt="UwU"/>
 </p>
 
-**With 🧡 by Furrycality - The furries are the best owo | 2016 - 2023 All rights reserved**
+<p align="center">
+    <b>
+    💜 Furrycality 💜<br/>
+ A Celebration of Furry Passion | © 2016 - 2023<br/>
+                 All Rights Reserved
+
+</p>
 
 <p align='center'>
   <img src="https://hits.dwyl.com/furrycality/furrycality.svg?style=flat-square" alt="Visitas"/>
