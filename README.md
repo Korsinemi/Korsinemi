@@ -7,15 +7,15 @@
 
 
 # Sobre mi - About me 🦊
-- **ES** > Awo, Soy Furrycality (Mejor llamada Cality), tengo 16 años y soy prodigiosa, de dia y de noche soy una furra leal y amorosa, me apasiona el dibujo y la programacion y en un futuro (no tal lejano) me dedicare tambien a la musica, soy tranquila y siempre ando feliz (bato la cola siempre jsjs) tengo varios proyectos entre los que destaco a mis dos bots de Discord, a Osakana y a FurRetro UwU. Ademas soy una  fanatica del  anime y los zorros, tambien me facina mucho crear cosas nuevas.
-En mis ratos libres me dedico a crear diseños y a configurar servidores en Discord y tambien a ver que nuevos dibujos hacer. Soy amable, gentil, sociable y cariñosa con todos.
+- **ES** > 
+¡Hola! Soy Furrycality, pero puedes llamarme Cality. Con 17 años, soy una furra apasionada por el arte, la programación y la música. Mi cola siempre está bailando de alegría (¡no puedo evitarlo, jsjs!). Destaco por mis adorables proyectos como frosting.ai, mi gran proyecto en colaboracion, y algunos otros mas pequeños. Además, amo el anime, los zorros y crear cosas nuevas. Soy amable, gentil, sociable y cariñosa. ¡Un placer compartir mi alegría y pasión contigo! UwU
 
-- **EN** > Awo, I am Furrycality (Better called Cality), I am 16 years old and I am prodigious, by day and by night I am a loyal and loving furry, I am passionate about drawing and programming and in the future (not so distant) I will also dedicate myself to music, I am calm and I am always happy (I always wag my tail jsjs) I have several projects among which I highlight my two Discord bots, Osakana and FurRetro UwU. I am also a fan of anime and foxes, I am also very fascinated by creating new things.
-In my spare time I dedicate myself to creating designs and configuring Discord servers and also seeing what new drawings to make. I am kind, gentle, sociable and affectionate with everyone.
+- **EN** > 
+Hello there! I'm Furrycality, or you can just call me Cality. At 17, I'm a fur passionate about art, programming, and music. My tail is always dancing with joy (can't help it, jsjs!). I shine with my adorable proyects like frosting.ai, my biggest collab proyect, and a lot of small ones. Beyond that, I love anime, foxes, and creating new things. I'm kind, gentle, sociable, and affectionate. A pleasure to share my joy and passion with you! UwU
 
+<!--
 - 📣 Mis proyectos: 
    > [UGCatcher](https://github.com/Furrycality/UGCatcher) - Obten UGCs gratis facilmente (English/Spanish)
-<!--
    > [node-furapi] Obten furros facilmente usando NodeJS  (https://www.npmjs.com/package/node-furapi) <br />
    > [node-kawapi] Obten anime facilmente usando NodeJS  (https://www.npmjs.com/package/node-kawapi) <br />
    > [Zabami](https://github.com/KitsuneCode/ZabamiBot) - **Mi bot de discord furry basado en mi fursona** <br />
@@ -23,12 +23,11 @@ In my spare time I dedicate myself to creating designs and configuring Discord s
    > [Wikicord] - **Un paquete de busqueda en Wikipedia** # En desarrollo <br />
    > [Histoday] - **Obten eventos de la historia que ocurrieron hoy u otro dia** # En desarrollo <br />
    > [keepAlive] - **Manten a tu bot activo 24/7** # En desarrollo
--->
 
 - ⚡ Dato extra: Creo bots por encargo para tu servidor y tambien configuro, contactame UwU
     > Discord: Furrycality#1234 <br />
     > Solo te pido que me dejes añadir mi bot, y es gratis jsjs
-
+-->
 
 # Estadistics - Estadisticas 📊
 <p align="center">
@@ -83,10 +82,10 @@ const myLife = require('purrfection')
   <img src="https://emoji.gg/assets/emoji/6375_dancing_neko.gif" alt="UwU"/>
 </p>
 
-**With 🧡 by Furrycality - The furries are the best owo**
+**With 🧡 by Furrycality - The furries are the best owo | 2016 - 2023 All rights reserved**
 
 <p align='center'>
-  <img src="https://visitor-badge.glitch.me/badge?page_id=Furrycality" alt="Visitas"/>
+  <img src="https://visitor-badge.glitch.me/badge?page_id=furrycality" alt="Visitas"/>
 </p>
         
 <!--
