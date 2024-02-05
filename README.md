@@ -32,10 +32,10 @@ Hello there! I'm Korsinemi. At 17, I'm a fur passionate about art, programming, 
 # Estadistics - Estadisticas 📊
 <p align="center">
     <a style="text-decoration: none;" href="https://korsinemi.is-a.dev">
-        <img width=430 height=195 align="center" src="https://github-readme-stats.vercel.app/api?username=Furrycality&theme=kacho_ga&show_icons=true&bg_color=0D1117&hide_border=true&locale=es&custom_title=Mis%20estadisticas%20UwU" />
+        <img width=430 height=195 align="center" src="https://github-readme-stats.vercel.app/api?username=Korsinemi&theme=kacho_ga&show_icons=true&bg_color=0D1117&hide_border=true&locale=es&custom_title=Mis%20estadisticas%20UwU" />
     </a>
     <a href="https://korsinemi.is-a.dev">
-        <img width=370 height=185 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Furrycality&theme=kacho_ga&layout=compact&bg_color=0D1117&hide_border=true&custom_title=Mis%20lenguajes%20UwU" />
+        <img width=370 height=185 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Korsinemi&theme=kacho_ga&layout=compact&bg_color=0D1117&hide_border=true&custom_title=Mis%20lenguajes%20UwU" />
     </a>
 </p>
 
