@@ -61,7 +61,7 @@ const myLife = require('purrfection')
 ```
         
 <p align='center'>
-  <img src="https://tenor.com/bYMOY.gif" alt="UwU"/>
+  <img src="https://media.tenor.com/CbpeAQ249I0AAAAi/chiakiro-fox.gif" alt="UwU"/>
 </p>
 
 <p align="center">
