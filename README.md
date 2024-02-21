@@ -48,7 +48,7 @@ Hello there! I'm Korsinemi. At 17, I'm a fur passionate about art, programming, 
     <a href="https://www.typescriptlang.org"><img align="center" alt="TS" width="36px" src="https://i.imgur.com/vSgFULR.png" /></a>
     <a href="https://nodejs.org"><img align="center" alt="Node.js" width="36px" src="https://cdn.iconscout.com/icon/free/png-512/node-js-1-1174935.png" /></a>
     <a href="https://www.mongodb.com"><img align="center" alt="MongoDB" width="36px" src="https://lesliezarate.github.io/Portafolio/static/iconos/mongo.png" /></a>
-    <a href="https://firebase.google.com"><img align="center" alt="Firebase" width="36px" src="https://i.imgur.com/1RVXvxS.png" /></a>
+    <a href="https://firebase.google.com"><img align="center" alt="Firebase" width="36px" src="https://latitudetechnolabs.com/wp-content/uploads/2022/01/icons8-firebase-1.png" /></a>
     <img align="center" alt="Photoshop" width="36px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/2101px-Adobe_Photoshop_CC_icon.svg.png" />
     <img align="center" alt="HTML5" width="36px" src="https://cdn-icons-png.flaticon.com/512/226/226269.png" />
     <img align="center" alt="CSS3" width="36px" src="https://raw.githubusercontent.com/KitsuneCode/KitsuneCode/main/img/pngwing.com.png" />
