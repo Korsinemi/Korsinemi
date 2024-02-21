@@ -51,7 +51,7 @@ Hello there! I'm Korsinemi. At 17, I'm a fur passionate about art, programming, 
     <a href="https://firebase.google.com"><img align="center" alt="Firebase" width="36px" src="https://latitudetechnolabs.com/wp-content/uploads/2022/01/icons8-firebase-1.png" /></a>
     <img align="center" alt="Photoshop" width="36px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/2101px-Adobe_Photoshop_CC_icon.svg.png" />
     <img align="center" alt="HTML5" width="36px" src="https://cdn-icons-png.flaticon.com/512/226/226269.png" />
-    <img align="center" alt="CSS3" width="36px" src="https://raw.githubusercontent.com/KitsuneCode/KitsuneCode/main/img/pngwing.com.png" />
+    <img align="center" alt="CSS3" width="36px" src="https://logospng.org/download/css-3/logo-css-3-256.png" />
     <a href="https://www.npmjs.com"><img align="center" alt="NPM" width="36px" src="https://seekicon.com/free-icon-download/npm_5.svg" /></a>
 </p>
 
