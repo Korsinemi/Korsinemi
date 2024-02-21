@@ -73,7 +73,7 @@ const myLife = require('purrfection')
 </p>
 
 <p align='center'>
-  <img src="https://hits.dwyl.com/furrycality/furrycality.svg?style=flat-square" alt="Visitas"/>
+  <img src="https://hits.dwyl.com/korsinemi/korsinemi.svg?style=flat-square" alt="Visits"/>
 </p>
         
 <!--
