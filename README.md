@@ -2,7 +2,7 @@
 <a href="https://korsinemi.vecel.app" title="My fluff web">
     <img src="https://raw.githubusercontent.com/Korsinemi/Korsinemi/main/img/krs-banner.short.png">
     </a>
-<a href="https://korsinemi.vecel.app"><img src="https://readme-typing-svg.herokuapp.com?font=Nova+Square&size=40&duration=6000&pause=9000&color=6E37FF&center=true&vCenter=true&random=true&width=700&height=60&lines=Korsinemi%2C+the+next+generation+furry" alt="UwU" /></a>
+<a href="https://korsinemi.link"><img src="https://readme-typing-svg.herokuapp.com?font=Nova+Square&size=40&duration=6000&pause=9000&color=6E37FF&center=true&vCenter=true&random=true&width=700&height=60&lines=Korsinemi%2C+the+next+generation+furry" alt="UwU" /></a>
 </p>
 
 
