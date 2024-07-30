@@ -5,13 +5,7 @@
 <a href="https://korsinemi.link"><img src="https://readme-typing-svg.herokuapp.com?font=Nova+Square&size=40&duration=6000&pause=9000&color=6E37FF&center=true&vCenter=true&random=true&width=700&height=60&lines=Korsinemi%2C+the+next+generation+furry" alt="UwU" /></a>
 </p>
 
-
-# Sobre mi - About me 🦊
-- **ES** > 
-¡Hola! Soy Korsinemi. Con 17 años, soy una furra apasionada por el arte, la programación y la música. Mi cola siempre está bailando de alegría (¡no puedo evitarlo, jsjs!). Destaco por mis adorables proyectos como frosting.ai, mi gran proyecto en colaboracion, y algunos otros mas pequeños. Además, amo el anime, los zorros y crear cosas nuevas. Soy amable, gentil, sociable y cariñosa. ¡Un placer compartir mi alegría y pasión contigo! UwU
-
-- **EN** > 
-Hello there! I'm Korsinemi. At 17, I'm a fur passionate about art, programming, and music. My tail is always dancing with joy (can't help it, jsjs!). I shine with my adorable proyects like frosting.ai, my biggest collab proyect, and a lot of small ones. Beyond that, I love anime, foxes, and creating new things. I'm kind, gentle, sociable, and affectionate. A pleasure to share my joy and passion with you! UwU
+Another furry changing the world UwU
 
 <!--
 - 📣 Mis proyectos: 
