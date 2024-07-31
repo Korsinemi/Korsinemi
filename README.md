@@ -26,10 +26,10 @@ Another furry changing the world UwU
 # Estadistics - Estadisticas 📊
 <p align="center">
     <a style="text-decoration: none;" href="https://korsinemi.link">
-        <img width=430 height=195 align="center" src="https://github-readme-stats.vercel.app/api?username=Korsinemi&theme=ambient_gradient&show_icons=true&bg_color=0D1117&hide_border=true&locale=es&custom_title=💜 Estadisticas" />
+        <img width=430 height=195 align="center" src="https://github-readme-stats.vercel.app/api?username=Korsinemi&theme=ambient_gradient&show_icons=true&hide_border=true&locale=es&custom_title=💜 Estadisticas"/>
     </a>
     <a href="https://korsinemi.link">
-        <img width=370 height=185 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Korsinemi&theme=ambient_gradient&layout=compact&bg_color=0D1117&hide_border=true&custom_title=💜 Lenguajes" />
+        <img width=430 height=195 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Korsinemi&theme=ambient_gradient&layout=compact&hide_border=true&custom_title=💜 Lenguajes"/>
     </a>
 </p>
 
@@ -66,11 +66,9 @@ const myLife = require('purrfection')
 
 </p>
 
-<!--
 <p align='center'>
   <img src="https://hits.dwyl.com/korsinemi/korsinemi.svg?style=flat-square" alt="Visits"/>
 </p>
--->
         
 <!--
 **KitsuneCode/KitsuneCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
