@@ -1,11 +1,14 @@
 <p align="center">
 <a href="https://korsinemi.vecel.app" title="My fluff web">
-    <img src="https://raw.githubusercontent.com/Korsinemi/Korsinemi/main/img/krs-banner.short.png">
+    <img src="https://raw.githubusercontent.com/Korsinemi/Korsinemi/main/img/krs-banner.short.png" href="https://korsinemi.link">
     </a>
-<a href="https://korsinemi.link"><img src="https://readme-typing-svg.herokuapp.com?font=Nova+Square&size=40&duration=6000&pause=9000&color=6E37FF&center=true&vCenter=true&random=true&width=700&height=60&lines=Korsinemi%2C+the+next+generation+furry" alt="UwU" /></a>
+<a href="https://korsinemi.link">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Nova+Square&size=40&duration=6000&pause=9000&color=6E37FF&center=true&vCenter=true&random=true&width=700&height=60&lines=Korsinemi%2C+the+next+generation+furry" alt="UwU" /></a>
+    <img src="https://discord.c99.nl/widget/theme-2/440145069262241813.png" alt="UwU"/>
+    <br>
+    <img src="https://img.shields.io/static/v1?label=&message=KORSINEMI+WEB&color=47006B&style=for-the-badge&logo=apifox&logoColor=white" alt="UwU"/>
 </p>
 
-Another furry changing the world UwU
 
 <!--
 - 📣 Mis proyectos: 
@@ -23,17 +26,15 @@ Another furry changing the world UwU
     > Solo te pido que me dejes añadir mi bot, y es gratis jsjs
 -->
 
-# Estadistics - Estadisticas 📊
+## » 𝘿𝙖𝙩𝙖
+
 <p align="center">
-    <a style="text-decoration: none;" href="https://korsinemi.link">
-        <img width=430 height=195 align="center" src="https://github-readme-stats.vercel.app/api?username=Korsinemi&theme=ambient_gradient&show_icons=true&hide_border=true&locale=es&custom_title=💜 Estadisticas"/>
-    </a>
-    <a href="https://korsinemi.link">
-        <img width=430 height=195 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Korsinemi&theme=ambient_gradient&layout=compact&hide_border=true&custom_title=💜 Lenguajes"/>
-    </a>
+        <img width="460" height="195" src="https://github-readme-stats.vercel.app/api?username=Korsinemi&theme=ambient_gradient&show_icons=true&hide_border=true&locale=es&custom_title=💜%20Estadisticas" alt="Estadísticas de GitHub" href="https://korsinemi.link"/>
+        <img width="480" height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Korsinemi&theme=ambient_gradient&layout=compact&hide_border=true&custom_title=💜%20Lenguajes" alt="Lenguajes más utilizados" href="https://korsinemi.link"/>
 </p>
 
-# Herramientas - Tools ⚙
+## » 𝙃𝙚𝙧𝙧𝙖𝙢𝙞𝙚𝙣𝙩𝙖𝙨
+
 <p align="center">
     <a href="https://github.com"><img align="center" alt="GitHub" width="36px" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" /></a>
     <a href="https://code.visualstudio.com"><img align="center" alt="Visual Studio Code" width="36px" src="https://logospng.org/download/visual-studio-code/visual-studio-code-256.png" /></a>
