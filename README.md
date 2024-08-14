@@ -6,7 +6,9 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Nova+Square&size=40&duration=6000&pause=9000&color=6E37FF&center=true&vCenter=true&random=true&width=700&height=60&lines=Korsinemi%2C+the+next+generation+furry" alt="UwU" /></a>
     <img src="https://discord.c99.nl/widget/theme-2/440145069262241813.png" alt="UwU"/>
     <br>
-    <img src="https://img.shields.io/static/v1?label=&message=KORSINEMI+WEB&color=47006B&style=for-the-badge&logo=apifox&logoColor=white" alt="UwU"/>
+    <a href="https://korsinemi.link">
+        <img src="https://img.shields.io/static/v1?label=&message=KORSINEMI+WEB&color=47006B&style=for-the-badge&logo=apifox&logoColor=white" alt="UwU"/>
+    </a>
 </p>
 
 
@@ -29,8 +31,8 @@
 ## » 𝘿𝙖𝙩𝙖
 
 <p align="center">
-        <img width="460" height="195" src="https://github-readme-stats.vercel.app/api?username=Korsinemi&theme=ambient_gradient&show_icons=true&hide_border=true&locale=es&custom_title=💜%20Estadisticas" alt="Estadísticas de GitHub" href="https://korsinemi.link"/>
-        <img width="480" height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Korsinemi&theme=ambient_gradient&layout=compact&hide_border=true&custom_title=💜%20Lenguajes" alt="Lenguajes más utilizados" href="https://korsinemi.link"/>
+        <img width="470" height="195" src="https://github-readme-stats.vercel.app/api?username=Korsinemi&theme=ambient_gradient&show_icons=true&hide_border=true&locale=es&custom_title=💜%20Estadisticas" alt="Estadísticas de GitHub" href="https://korsinemi.link"/>
+        <img width="400" height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Korsinemi&theme=ambient_gradient&layout=compact&hide_border=true&custom_title=💜%20Lenguajes" alt="Lenguajes más utilizados" href="https://korsinemi.link"/>
 </p>
 
 ## » 𝙃𝙚𝙧𝙧𝙖𝙢𝙞𝙚𝙣𝙩𝙖𝙨
@@ -51,8 +53,83 @@
 </p>
 
 ```js
-// This is where begins
-const myLife = require('purrfection')
+import myLife from "purrfection";
+
+class MyFurryLife {
+  constructor() {
+    this.moments = [];
+    this.friends = [];
+    this.hobbies = [];
+    this.fursonas = [];
+  }
+
+  addMoment(moment) {
+    this.moments.push(moment);
+    console.log(`Nuevo momento añadido: ${moment}`);
+  }
+
+  addFriend(friend) {
+    this.friends.push(friend);
+    console.log(`Nuevo amigo añadido: ${friend}`);
+  }
+
+  addHobby(hobby) {
+    this.hobbies.push(hobby);
+    console.log(`Nuevo hobby añadido: ${hobby}`);
+  }
+
+  addFursona(fursona) {
+    this.fursonas.push(fursona);
+    console.log(`Nueva fursona añadida: ${fursona}`);
+  }
+
+  showMoments() {
+    console.log("Momentos memorables:");
+    this.moments.forEach((moment, index) => {
+      console.log(`${index + 1}. ${moment}`);
+    });
+  }
+
+  showFriends() {
+    console.log("Amigos:");
+    this.friends.forEach((friend, index) => {
+      console.log(`${index + 1}. ${friend}`);
+    });
+  }
+
+  showHobbies() {
+    console.log("Hobbies:");
+    this.hobbies.forEach((hobby, index) => {
+      console.log(`${index + 1}. ${hobby}`);
+    });
+  }
+
+  showFursonas() {
+    console.log("Fursonas:");
+    this.fursonas.forEach((fursona, index) => {
+      console.log(`${index + 1}. ${fursona}`);
+    });
+  }
+}
+
+const myFurryProfile = new MyFurryLife(myLife);
+
+myFurryProfile.addMoment("Primera convención furry");
+myFurryProfile.addMoment("Creación de mi primera fursona");
+myFurryProfile.addFriend("Dani");
+myFurryProfile.addHobby("Dibujo de arte furry");
+myFurryProfile.addHobby("Participación en foros furry");
+myFurryProfile.addFursona("Prismy");
+
+myFurryProfile.showMoments();
+myFurryProfile.showFriends();
+myFurryProfile.showHobbies();
+myFurryProfile.showFursonas();
+
+function decorateProfile() {
+  console.log("Cute Image!");
+  console.log("https://i.korsinemi.link/uwu.png")
+}
 ```
         
 <p align='center'>
