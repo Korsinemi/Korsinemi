@@ -128,7 +128,7 @@ myFurryProfile.showFursonas();
 
 function decorateProfile() {
   console.log("Cute Image!");
-  console.log("https://i.korsinemi.link/uwu.png")
+  console.log("https://i.korsinemi.link/uwu.gif)
 }
 ```
         
