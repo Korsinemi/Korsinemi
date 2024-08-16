@@ -1,10 +1,10 @@
 <p align="center">
 <a href="https://korsinemi.vecel.app" title="My fluff web">
-    <img src="https://raw.githubusercontent.com/Korsinemi/Korsinemi/main/img/krs-banner.short.png" href="https://korsinemi.link">
+    <img src="https://raw.githubusercontent.com/Korsinemi/Korsinemi/main/img/KorsinemiBanner_1.png" href="https://korsinemi.link">
     </a>
 <a href="https://korsinemi.link">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Nova+Square&size=40&duration=6000&pause=9000&color=6E37FF&center=true&vCenter=true&random=true&width=700&height=60&lines=Korsinemi%2C+the+next+generation+furry" alt="UwU" /></a>
-    <img src="https://discord.c99.nl/widget/theme-2/440145069262241813.png" alt="UwU"/>
+       <img src="https://readme-typing-svg.demolab.com?font=Edu+VIC+WA+NT+Beginner&duration=7000&pause=3000&color=FFFFFF&background=FFFFFF00&center=true&vCenter=true&random=true&width=600&lines=Another+silly+furry+coding+stuff%2C+making+fluffy+ideas+and+empowering+the+furrture" alt="Typing Kori" />
+</a>
     <br>
     <a href="https://korsinemi.link">
         <img src="https://img.shields.io/static/v1?label=&message=KORSINEMI+WEB&color=47006B&style=for-the-badge&logo=apifox&logoColor=white" alt="UwU"/>
@@ -28,12 +28,18 @@
     > Solo te pido que me dejes añadir mi bot, y es gratis jsjs
 -->
 
+
 ## » 𝘿𝙖𝙩𝙖
 
 <p align="center">
-        <img width="470" height="195" src="https://github-readme-stats.vercel.app/api?username=Korsinemi&theme=ambient_gradient&show_icons=true&hide_border=true&locale=es&custom_title=💜%20Estadisticas" alt="Estadísticas de GitHub" href="https://korsinemi.link"/>
-        <img width="400" height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Korsinemi&theme=ambient_gradient&layout=compact&hide_border=true&custom_title=💜%20Lenguajes" alt="Lenguajes más utilizados" href="https://korsinemi.link"/>
+        <img width="470" height="195" src="https://github-readme-stats.vercel.app/api?username=Korsinemi&theme=midnight-purple&show_icons=true&hide_border=true&locale=es&custom_title=💜%20Estadisticas" alt="Estadísticas de GitHub" href="https://korsinemi.link"/>
+        <img width="400" height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Korsinemi&theme=midnight-purple&layout=compact&hide_border=true&custom_title=💜%20Lenguajes" alt="Lenguajes más utilizados" href="https://korsinemi.link"/>
 </p>
+
+## » 𝙋𝙧𝙤𝙮𝙚𝙘𝙩𝙤𝙨
+> FXReborn (ex. FurX / UGCatcher)
+> PeludAPI
+> Kyozen
 
 ## » 𝙃𝙚𝙧𝙧𝙖𝙢𝙞𝙚𝙣𝙩𝙖𝙨
 
