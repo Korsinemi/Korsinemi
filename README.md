@@ -38,24 +38,26 @@
 
 ## » 𝙋𝙧𝙤𝙮𝙚𝙘𝙩𝙤𝙨
 > FXReborn (ex. FurX / UGCatcher)
+
 > PeludAPI
+
 > Kyozen
 
 ## » 𝙃𝙚𝙧𝙧𝙖𝙢𝙞𝙚𝙣𝙩𝙖𝙨
 
 <p align="center">
     <a href="https://github.com"><img align="center" alt="GitHub" width="36px" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" /></a>
-    <a href="https://code.visualstudio.com"><img align="center" alt="Visual Studio Code" width="36px" src="https://logospng.org/download/visual-studio-code/visual-studio-code-256.png" /></a>
-    <a href="https://discord.js.org"><img align="center" alt="Discord.js" width="36px" src="https://i.imgur.com/SI1DZf3.png" /></a>
+    <a href="https://code.visualstudio.com"><img align="center" alt="Visual Studio Code" width="36px" src="https://code.visualstudio.com/favicon.ico" /></a>
+    <a href="https://discord.js.org"><img align="center" alt="Discord.js" width="36px" src="https://discord.js.org/favicon.ico" /></a>
     <a href="https://www.javascript.com"><img align="center" alt="JS" width="36px" src="https://i.imgur.com/3u1wzwE.png" /></a>
     <a href="https://www.typescriptlang.org"><img align="center" alt="TS" width="36px" src="https://i.imgur.com/vSgFULR.png" /></a>
-    <a href="https://nodejs.org"><img align="center" alt="Node.js" width="36px" src="https://cdn.iconscout.com/icon/free/png-512/node-js-1-1174935.png" /></a>
-    <a href="https://www.mongodb.com"><img align="center" alt="MongoDB" width="36px" src="https://lesliezarate.github.io/Portafolio/static/iconos/mongo.png" /></a>
-    <a href="https://firebase.google.com"><img align="center" alt="Firebase" width="36px" src="https://latitudetechnolabs.com/wp-content/uploads/2022/01/icons8-firebase-1.png" /></a>
-    <img align="center" alt="Photoshop" width="36px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/2101px-Adobe_Photoshop_CC_icon.svg.png" />
-    <img align="center" alt="HTML5" width="36px" src="https://logospng.org/download/html-5/logo-html-5-256.png" />
-    <img align="center" alt="CSS3" width="36px" src="https://logospng.org/download/css-3/logo-css-3-256.png" />
-    <a href="https://www.npmjs.com"><img align="center" alt="NPM" width="36px" src="https://seekicon.com/free-icon-download/npm_5.svg" /></a>
+    <a href="https://nodejs.org"><img align="center" alt="Node.js" width="36px" src="https://nodejs.org/static/images/favicons/favicon.png" /></a>
+    <a href="https://www.mongodb.com"><img align="center" alt="MongoDB" width="36px" src="https://www.mongodb.com/favicon.ico" /></a>
+    <a href="https://firebase.google.com"><img align="center" alt="Firebase" width="36px" src="https://www.gstatic.com/devrel-devsite/prod/vdf5af65c45d9e2fdd493c581ff01cb1d11a21b4420a9fcc957400a26863da9d2/firebase/images/touchicon-180.png" /></a>
+    <a href="https://www.adobe.com/products/photoshop"><img align="center" alt="Photoshop" width="36px" src="https://www.adobe.com/cc-shared/assets/img/product-icons/svg/photoshop-64.svg" /></a>
+    <img align="center" alt="HTML5" width="36px" src="https://upload.wikimedia.org/wikipedia/commons/3/38/HTML5_Badge.svg" />
+    <img align="center" alt="CSS3" width="36px" src="https://www.svgrepo.com/show/349330/css3.svg" />
+    <a href="https://www.npmjs.com"><img align="center" alt="NPM" width="36px" src="https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.npmjs.com&size=64" /></a>
 </p>
 
 ```js
@@ -151,7 +153,7 @@ function decorateProfile() {
 </p>
 
 <p align='center'>
-  <img src="https://hits.dwyl.com/korsinemi/korsinemi.svg?style=flat-square" alt="Visits"/>
+  <img src="https://komarev.com/ghpvc/?username=Korsinemi&style=for-the-badge&color=46008b&label=FURRIES" alt="Visits"/>
 </p>
         
 <!--
