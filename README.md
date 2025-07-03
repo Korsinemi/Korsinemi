@@ -1,13 +1,13 @@
 <p align="center">
-<a href="https://korsinemi.vecel.app" title="My fluff web">
-    <img src="https://raw.githubusercontent.com/Korsinemi/Korsinemi/main/img/KorsinemiBanner_1.png" href="https://korsinemi.link">
+<a href="https://korsinemi.link" title="My fluff web">
+    <img src="https://raw.githubusercontent.com/Korsinemi/Korsinemi/refs/heads/main/img/korsinemi_banner.png" href="https://korsinemi.link">
     </a>
 <a href="https://korsinemi.link">
        <img src="https://readme-typing-svg.demolab.com?font=Edu+VIC+WA+NT+Beginner&duration=7000&pause=3000&color=FFFFFF&background=FFFFFF00&center=true&vCenter=true&random=true&width=600&lines=Another+silly+furry+coding+stuff%2C+making+fluffy+ideas+and+empowering+the+furrture" alt="Typing Kori" />
 </a>
     <br>
     <a href="https://korsinemi.link">
-        <img src="https://img.shields.io/static/v1?label=&message=KORSINEMI+WEB&color=47006B&style=for-the-badge&logo=apifox&logoColor=white" alt="UwU"/>
+        <img src="https://img.shields.io/static/v1?label=&message=KORSINEMI+WEB&color=512980&style=for-the-badge&logo=apifox&logoColor=white" alt="UwU"/>
     </a>
 </p>
 
@@ -29,21 +29,28 @@
 -->
 
 
-## » 𝘿𝙖𝙩𝙖
+## » 𝗦𝘁𝗮𝗱𝗶𝘀𝘁𝗶𝗰𝘀 - 𝗘𝘀𝘁𝗮𝗱𝗶𝘀𝘁𝗶𝗰𝗮𝘀
 
 <p align="center">
-        <img width="470" height="195" src="https://github-readme-stats.vercel.app/api?username=Korsinemi&theme=midnight-purple&show_icons=true&hide_border=true&locale=es&custom_title=💜%20Estadisticas" alt="Estadísticas de GitHub" href="https://korsinemi.link"/>
-        <img width="400" height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Korsinemi&theme=midnight-purple&layout=compact&hide_border=true&custom_title=💜%20Lenguajes" alt="Lenguajes más utilizados" href="https://korsinemi.link"/>
+        <img width="470" height="195" src="https://github-readme-stats.vercel.app/api?username=Korsinemi&theme=midnight-purple&show_icons=true&hide_border=true&locale=es&custom_title=💜%20Stadistics" alt="Estadísticas de GitHub" href="https://korsinemi.link"/>
+        <img width="400" height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Korsinemi&theme=midnight-purple&layout=compact&hide_border=true&custom_title=💜%20Langs" alt="Lenguajes más utilizados" href="https://korsinemi.link"/>
 </p>
 
-## » 𝙋𝙧𝙤𝙮𝙚𝙘𝙩𝙤𝙨
-> FXReborn (ex. FurX / UGCatcher)
+## » 𝗣𝗿𝗼𝘆𝗲𝗰𝘁𝗼𝘀 - 𝗣𝗿𝗼𝗷𝗲𝗰𝘁𝘀
 
-> PeludAPI
+- 🌐 **[Korsinemi Development](https://korsinemi.link/):** Mi sitio web principal.
+- 📚 **[Korsinemi Docs](https://docs.korsinemi.link/begin/):** Las documentaciones de mis proyectos.
+------------------------
+- 🐾 **[PeludAPI](https://peludapi.korsinemi.link/):** Una poderosa API furry.
+- ⛏️ **[Korsicraft](https://craft.korsinemi.link/):** Mi paquete de mods para Minecraft.
+- 👕 **[4DSkins](https://craft.korsinemi.link/4d-skins):** Skins 4D para Minecraft.
+- 🤖 **[Pris (Discord Bot)](https://pris.korsinemi.link/):** Mi bot de Discord.
+- 🎮 **[Furventura](https://furventura.korsinemi.link/):** Un juego RPG de animalitos (Próximamente).
+- 🎨 **[Purrteractive](https://purrteractive.tech):** Estudio de desarrollo (Próximamente)
+### »» Proyectos descartados/archivados
+- 🎯 **[FurX (ex. UGCatcher)](https://github.com/Korsinemi/FurX-Reborn):** El mejor sniper de Roblox, mejorado y relanzado.
 
-> Kyozen
-
-## » 𝙃𝙚𝙧𝙧𝙖𝙢𝙞𝙚𝙣𝙩𝙖𝙨
+## » 𝗧𝗼𝗼𝗹𝘀 - 𝗛𝗲𝗿𝗿𝗮𝗺𝗶𝗲𝗻𝘁𝗮𝘀
 
 <p align="center">
     <a href="https://github.com"><img align="center" alt="GitHub" width="36px" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" /></a>
@@ -61,78 +68,38 @@
 </p>
 
 ```js
-import myLife from "purrfection";
+const myProfile = {
+    name: "Korsinemi",
+    role: "FULLSTACK PROGRAMMER, SOFTWARE ENGINEER & AI Manager",
+    interests: [
+        "Web Development",
+        "Artificial Intelligence",
+        "Cloud Computing",
+        "Automation",
+        "Open Source",
+        "Furry Fandom" // ¡Agregado!
+    ],
+    favoriteTools: [
+        "GitHub Pro",
+        "GitHub Copilot",
+        "VS Code",
+        "JetBrains IDEs",
+        "DigitalOcean"
+    ],
+    currentStatus: "Systems Assistant in Technical Support at Microsoft.",
+    currentlyLearning: "Exploring the world self-taught.",
+    contact: {
+        github: "https://github.com/Korsinemi", // Remember to replace with your actual GitHub username if different
+        linkedin: "https://www.linkedin.com/in/[YourLinkedInProfile]" // Optional, replace [YourLinkedInProfile]
+    },
+    greet: function() {
+        return `Hello! I'm ${this.name}. I'm passionate about ${this.interests[0]} and excited for the technological future.`;
+    }
+};
 
-class MyFurryLife {
-  constructor() {
-    this.moments = [];
-    this.friends = [];
-    this.hobbies = [];
-    this.fursonas = [];
-  }
-
-  addMoment(moment) {
-    this.moments.push(moment);
-    console.log(`Nuevo momento añadido: ${moment}`);
-  }
-
-  addFriend(friend) {
-    this.friends.push(friend);
-    console.log(`Nuevo amigo añadido: ${friend}`);
-  }
-
-  addHobby(hobby) {
-    this.hobbies.push(hobby);
-    console.log(`Nuevo hobby añadido: ${hobby}`);
-  }
-
-  addFursona(fursona) {
-    this.fursonas.push(fursona);
-    console.log(`Nueva fursona añadida: ${fursona}`);
-  }
-
-  showMoments() {
-    console.log("Momentos memorables:");
-    this.moments.forEach((moment, index) => {
-      console.log(`${index + 1}. ${moment}`);
-    });
-  }
-
-  showFriends() {
-    console.log("Amigos:");
-    this.friends.forEach((friend, index) => {
-      console.log(`${index + 1}. ${friend}`);
-    });
-  }
-
-  showHobbies() {
-    console.log("Hobbies:");
-    this.hobbies.forEach((hobby, index) => {
-      console.log(`${index + 1}. ${hobby}`);
-    });
-  }
-
-  showFursonas() {
-    console.log("Fursonas:");
-    this.fursonas.forEach((fursona, index) => {
-      console.log(`${index + 1}. ${fursona}`);
-    });
-  }
-}
-
-const myFurryProfile = new MyFurryLife(myLife);
-
-myFurryProfile.addMoment("Primera convención furry");
-myFurryProfile.addMoment("Creación de mi primera fursona");
-myFurryProfile.addFriend("Dani");
-myFurryProfile.addHobby("Dibujo de arte furry");
-myFurryProfile.addHobby("Participación en foros furry");
-myFurryProfile.addFursona("Prismy");
-
-myFurryProfile.showMoments();
-myFurryProfile.showFriends();
-myFurryProfile.showHobbies();
-myFurryProfile.showFursonas();
+console.log(myProfile.greet());
+console.log("My main interests are:", myProfile.interests.join(", "));
+console.log("Let's connect and build amazing things!");
 
 function decorateProfile() {
   console.log("Cute Image!");
@@ -147,13 +114,13 @@ function decorateProfile() {
 <p align="center">
     <b>
     💜 Korsinemi 💜<br/>
- A Celebration of Furry Passion | © 2016 - 2024<br/>
+ A Celebration of Furry Passion | © 2016 - 2025<br/>
                  All Rights Reserved
 
 </p>
 
 <p align='center'>
-  <img src="https://komarev.com/ghpvc/?username=Korsinemi&style=for-the-badge&color=46008b&label=FURRIES" alt="Visits"/>
+  <img src="https://komarev.com/ghpvc/?username=Korsinemi&style=for-the-badge&color=512980&label=FURRIES" alt="Visits"/>
 </p>
         
 <!--
